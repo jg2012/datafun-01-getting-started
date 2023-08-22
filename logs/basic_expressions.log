@@ -1,0 +1,11 @@
+2023-08-22 17:22:47,512.basic_expressions.INFO ==================================================
+2023-08-22 17:22:47,512.basic_expressions.INFO Today is 2023-08-22 at 05:22 PM
+2023-08-22 17:22:47,512.basic_expressions.INFO Running on: posix Darwin 23.0.0
+2023-08-22 17:22:47,512.basic_expressions.INFO Python version:  3.11.4
+2023-08-22 17:22:47,512.basic_expressions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-22 17:22:47,512.basic_expressions.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 1/Assignments/datafun-01-getting-started
+2023-08-22 17:22:47,512.basic_expressions.INFO ==================================================
+2023-08-22 17:22:47,512.basic_expressions.INFO Given base=13 and height=7, triangle area = 45.5
+2023-08-22 17:22:47,512.basic_expressions.INFO Given float_num1=15.4 and float_num2=26.8, sum = 42.2
+2023-08-22 17:22:47,512.basic_expressions.INFO Given num1=560 and num2=25, the difference = 535
+2023-08-22 17:22:47,513.basic_expressions.INFO Rectangle length = 45, and rectangle_width = 8, rectangle_area = 360

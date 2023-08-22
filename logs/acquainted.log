@@ -1,18 +1,18 @@
-2023-08-22 16:52:38,366.acquainted.INFO ==================================================
-2023-08-22 16:52:38,366.acquainted.INFO Today is 2023-08-22 at 04:52 PM
-2023-08-22 16:52:38,366.acquainted.INFO Running on: posix Darwin 23.0.0
-2023-08-22 16:52:38,366.acquainted.INFO Python version:  3.11.4
-2023-08-22 16:52:38,366.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-08-22 16:52:38,366.acquainted.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 1/Assignments/datafun-01-getting-started
-2023-08-22 16:52:38,366.acquainted.INFO ==================================================
-2023-08-22 16:52:38,366.acquainted.INFO Name: John Doe 
-2023-08-22 16:52:38,366.acquainted.INFO State: California
-2023-08-22 16:52:38,366.acquainted.INFO Country: USA
-2023-08-22 16:52:38,366.acquainted.INFO Pet count: 1
-2023-08-22 16:52:38,366.acquainted.INFO Double the pet count: 2
-2023-08-22 16:52:38,366.acquainted.INFO Skill count: 24
-2023-08-22 16:52:38,366.acquainted.INFO Temperature: 81.5
-2023-08-22 16:52:38,366.acquainted.INFO Pet weight: 12.5
-2023-08-22 16:52:38,366.acquainted.INFO Has dog: False
-2023-08-22 16:52:38,366.acquainted.INFO Likes analytics: True
-2023-08-22 16:52:38,366.acquainted.INFO Likes Python: True
+2023-08-22 17:13:22,875.acquainted.INFO ==================================================
+2023-08-22 17:13:22,875.acquainted.INFO Today is 2023-08-22 at 05:13 PM
+2023-08-22 17:13:22,875.acquainted.INFO Running on: posix Darwin 23.0.0
+2023-08-22 17:13:22,875.acquainted.INFO Python version:  3.11.4
+2023-08-22 17:13:22,875.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-22 17:13:22,875.acquainted.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 1/Assignments/datafun-01-getting-started
+2023-08-22 17:13:22,875.acquainted.INFO ==================================================
+2023-08-22 17:13:22,875.acquainted.INFO Name: Jose Guzman 
+2023-08-22 17:13:22,875.acquainted.INFO State: Nebraska
+2023-08-22 17:13:22,875.acquainted.INFO Country: USA
+2023-08-22 17:13:22,875.acquainted.INFO Pet count: 2
+2023-08-22 17:13:22,875.acquainted.INFO Double the pet count: 4
+2023-08-22 17:13:22,875.acquainted.INFO Skill count: 36
+2023-08-22 17:13:22,875.acquainted.INFO Temperature: 100.5
+2023-08-22 17:13:22,875.acquainted.INFO Pet weight: 36.4
+2023-08-22 17:13:22,875.acquainted.INFO Has dog: True
+2023-08-22 17:13:22,875.acquainted.INFO Likes analytics: True
+2023-08-22 17:13:22,875.acquainted.INFO Likes Python: True
